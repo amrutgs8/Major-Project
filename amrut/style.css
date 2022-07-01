@@ -1,0 +1,24 @@
+a{
+    width: 100px;
+    padding: 10px 95px;
+    text-decoration: none;
+    border: 5px solid #19957e;
+    border-radius: 5px;
+    color: #0869bd;
+    background-color: #c6dcd6;
+  }
+
+.pigmy{
+    position: absolute;
+    /* height: 100%; */
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+
+body{
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('frnt-img1.jpg');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
